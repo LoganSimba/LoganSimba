@@ -39,4 +39,4 @@ I build full-stack applications and data-driven tools. My strongest areas are Py
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganSimba&show_icons=true&hide_border=true&theme=default)
+
