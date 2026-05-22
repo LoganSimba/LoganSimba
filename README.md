@@ -1,8 +1,6 @@
 # Hi, I'm Logan Simba 👋
 
-Computer Science student at the **University of Southern Maine** — open to internships and full-time roles.
-
-I build full-stack applications and data-driven tools. My strongest areas are Python and SQL, and I enjoy working across the stack from backend APIs to database design.
+Computer Science graduate (B.S., May 2026) and AI lab researcher focused on data analysis. I turn large, messy datasets into clear, decision-ready insights — building SQL data pipelines, running analysis in Python, and designing interactive dashboards. Strongest in Python and SQL, with experience across the full stack from backend APIs to database design.
 
 ---
 
@@ -24,14 +22,14 @@ I build full-stack applications and data-driven tools. My strongest areas are Py
 ---
 
 ## Projects
-
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Bank Management System](https://github.com/LoganSimba/springboot-BankManagementSystem) | Full-stack banking app with account management, transaction tracking, and dashboard analytics | Spring Boot · Java · H2 |
-| [Job Market Platform](https://github.com/LoganSimba/job-market-platform) | Job market analysis tool with a data scraper, SQLite database, and interactive charts | FastAPI · Python · SQLite |
+| [Job Market Platform](https://github.com/LoganSimba/job-market-platform) | Analyzes 1,000+ job postings for salary and skills trends; SQL data pipeline with interactive dashboards | FastAPI · Python · SQL |
+| [Audio-to-LaTeX Research](https://github.com/LoganSimba/math-speech-direct) | Fine-tuned Whisper & Qwen models to transcribe spoken math into LaTeX, with full evaluation (BLEU, ROUGE, WER, CER) | Python · ML |
+| [Bank Management System](https://github.com/LoganSimba/springboot-BankManagementSystem) | Full-stack banking app with account management, transaction tracking, and analytics | Spring Boot · Java · SQL |
 | [Portfolio Site](https://github.com/LoganSimba/logan-simba-portfolio) | Personal portfolio website | HTML · CSS |
 
----
+--
 
 ## Connect
 
